@@ -21,8 +21,6 @@ Further information and examples, check [here](https://developers.google.com/goo
 ### Install
 
 ```
-$ git clone git@github.com:CarolHsu/TODOs.git
-$ cd todoList
 $ npm install
 $ cd client npm install
 $ yarn build
